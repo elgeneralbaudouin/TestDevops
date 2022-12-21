@@ -1,2 +1,2 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("je suis fatigué de tester ngrok goodss");
+Console.WriteLine("je suis fatigué de tester ngrok good");
