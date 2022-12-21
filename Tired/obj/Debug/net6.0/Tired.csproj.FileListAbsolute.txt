@@ -1,0 +1,15 @@
+C:\Users\PSE\Desktop\test\Tired\Tired\bin\Debug\net6.0\Tired.exe
+C:\Users\PSE\Desktop\test\Tired\Tired\bin\Debug\net6.0\Tired.deps.json
+C:\Users\PSE\Desktop\test\Tired\Tired\bin\Debug\net6.0\Tired.runtimeconfig.json
+C:\Users\PSE\Desktop\test\Tired\Tired\bin\Debug\net6.0\Tired.dll
+C:\Users\PSE\Desktop\test\Tired\Tired\bin\Debug\net6.0\Tired.pdb
+C:\Users\PSE\Desktop\test\Tired\Tired\obj\Debug\net6.0\Tired.csproj.AssemblyReference.cache
+C:\Users\PSE\Desktop\test\Tired\Tired\obj\Debug\net6.0\Tired.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PSE\Desktop\test\Tired\Tired\obj\Debug\net6.0\Tired.AssemblyInfoInputs.cache
+C:\Users\PSE\Desktop\test\Tired\Tired\obj\Debug\net6.0\Tired.AssemblyInfo.cs
+C:\Users\PSE\Desktop\test\Tired\Tired\obj\Debug\net6.0\Tired.csproj.CoreCompileInputs.cache
+C:\Users\PSE\Desktop\test\Tired\Tired\obj\Debug\net6.0\Tired.dll
+C:\Users\PSE\Desktop\test\Tired\Tired\obj\Debug\net6.0\refint\Tired.dll
+C:\Users\PSE\Desktop\test\Tired\Tired\obj\Debug\net6.0\Tired.pdb
+C:\Users\PSE\Desktop\test\Tired\Tired\obj\Debug\net6.0\Tired.genruntimeconfig.cache
+C:\Users\PSE\Desktop\test\Tired\Tired\obj\Debug\net6.0\ref\Tired.dll
